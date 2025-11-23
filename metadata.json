@@ -1,0 +1,5 @@
+{
+  "name": "SSC CGL/CHSL AI Quiz Bot",
+  "description": "A Telegram-style chat interface for SSC exam preparation powered by Gemini 2.5 Flash. Includes a generator for the Python Telegram Bot code.",
+  "requestFramePermissions": []
+}
